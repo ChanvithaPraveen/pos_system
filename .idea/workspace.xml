@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d779867-8594-4dbb-81be-1e9a6951a34f" name="Changes" comment="Added POS sys files">
+    <list default="true" id="3d779867-8594-4dbb-81be-1e9a6951a34f" name="Changes" comment="Added delete, update, search functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/POSSystem.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/POSSystem.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POSSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POSSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +29,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Save Projects/Java Database Connector/mysql-connector-java-8.0.29/mysql-connector-java-8.0.29.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/USJP Engineering/Semester 3/CO2203 Object Oriented Programming/Project/GROUP_11/Project files&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +48,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667323297459</updated>
-      <workItem from="1667323299318" duration="16411000" />
+      <workItem from="1667323299318" duration="17161000" />
+      <workItem from="1667636002441" duration="677000" />
+      <workItem from="1667723287989" duration="191000" />
+      <workItem from="1667745272415" duration="1830000" />
     </task>
     <task id="LOCAL-00001" summary="Added POS sys files">
       <created>1667327240915</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667457775471</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added delete, update, search functions">
+      <created>1667477450847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667477450847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added POS sys files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added POS sys files" />
+    <MESSAGE value="Added delete, update, search functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added delete, update, search functions" />
   </component>
 </project>
